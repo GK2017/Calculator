@@ -8,7 +8,6 @@ import java.util.Stack;
 
 public class Application
 {
-	//private final static String someText = "2 j 5 +";
 	final static List<String> operators = Arrays.asList("+", "-", "*");
 
 	public static void main(String[] args)
